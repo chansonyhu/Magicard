@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Magicard</string>
+    <string name="profile">PROFILE</string>
+    <string name="feed">FEED</string>
+    <string name="game1">UPTOTEN</string>
+    <string name="game2">GUESSORDER</string>
+    <string name="game3">TAPTOTEL</string>
+    <string name="settings">SETTINGS</string>
+    <string name="bt_mode">Mode</string>
+    <string name="bt_write">Write</string>
+    <string name="bt_help">Help</string>
+    <string name="bt_tel">Telephone</string>
+    <string name="help_1">规则：需要十张NFC卡牌。开始时，点WRITE按钮，根据提示依次对十张卡牌洗牌。然后点MODE按钮选择游戏模式。游戏中，每次分别扫两张卡牌，若和为10，则可以消去；否则，根据屏幕上提示的和，继续扫卡，直至全部卡牌被消去则获得最终胜利！</string>
+    <string name="help_2">规则：需要十张NFC卡牌。开始是，点WIRTE按钮，根据提示依次对十张卡牌洗牌。然后点MODE按钮选择游戏模式。游戏中，根据提示若当前的卡牌数值比前一张卡牌数值大，则输出“↑”，若比前一张值小，则输出“↓”，若相等，则输出“→”。先按照递增顺序序列的人获胜。</string>
+    <string name="help_3">规则：需要一张NFC卡牌。开始时，点WRITE按钮，根据提示完成电话号码的录入。然后点TELPHONE按钮来进行拨号，拨号时，只需将手机靠近录有电话号码的卡片即可。</string>
+    <string name="media_path">/sdcard/tst.mp3</string>
+    <string name="not_support">该手机不支持NFC功能。</string>
+    <string name="not_enable">NFC功能未开启。</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="H:\Project\InnovationProject\UI\GuillotineMenu-Android-master\app\build\intermediates\exploded-aar\GuillotineMenu-Android-master\library\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="004c242462843f84f94a273687a084f1c4ff60ef">
+        <dex dex="H:\Project\InnovationProject\UI\GuillotineMenu-Android-master\app\build\intermediates\pre-dexed\debug\classes-60cfcf211df791c6868b39c71ca183e00af169ab.jar" />
+    </item>
+
+</items>
