@@ -18,9 +18,9 @@ Also, read how it was done in [our blog] (http://yalantis.com/blog/how-we-develo
 
 # Usage
 
-This project is built by gradle so you have to install gradle in your computer. Double click the *build.gradle* file in the root directory and you can open the project. **Android Studio** is requisite.
+This project is built by gradle so you have to install gradle in your computer. Double click the *build.gradle* file in the root directory and you can open the project. **Android Studio** is requisite.  
 
-
+If you encount *failed to find build tool 21.1.2*, that means you have to install the very build tool. If you don't know how to fix it, you can see the following link. [http://stackoverflow.com/questions/27272605/failed-to-find-build-tools-revision-21-1-1-sdk-up-to-date](http://stackoverflow.com/questions/27272605/failed-to-find-build-tools-revision-21-1-1-sdk-up-to-date)
 
 # Compatibility
   
