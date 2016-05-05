@@ -2,18 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/cyhu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jar="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
-        <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/support-annotations-22.1.1-85cab8e689ddc4a0cdd534379085a93f3746cdd9.jar" />
-    </item>
-    <item
-        jar="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/classes-13d4f68961ba36ddfb06e7730771869deaf7ec8b.jar" />
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/internal_impl-22.1.1-9114c8baba8126101611af2351a0122bba39499e.jar" />
     </item>
     <item
         jar="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/exploded-aar/Magicard/library/unspecified/jars/classes.jar"
@@ -23,18 +16,11 @@
         <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/classes-917e534867741ec4959fcf6157dba3af3c8c1166.jar" />
     </item>
     <item
-        jar="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jar="/home/cyhu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
         jumboMode="false"
         revision="21.1.2"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/classes-f04b6996b178ed9ac509fc31368d7ffdf8d89aee.jar" />
-    </item>
-    <item
-        jar="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/internal_impl-22.1.1-9114c8baba8126101611af2351a0122bba39499e.jar" />
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/support-annotations-22.1.1-85cab8e689ddc4a0cdd534379085a93f3746cdd9.jar" />
     </item>
     <item
         jar="/home/cyhu/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/6.1.0/63735f48b82bcd24cdd33821342428252eb1ca5a/butterknife-6.1.0.jar"
@@ -42,6 +28,20 @@
         revision="21.1.2"
         sha1="63735f48b82bcd24cdd33821342428252eb1ca5a">
         <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/butterknife-6.1.0-cda306f1119773ebd51ae04a3b502adb0bc64faa.jar" />
+    </item>
+    <item
+        jar="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/classes-f04b6996b178ed9ac509fc31368d7ffdf8d89aee.jar" />
+    </item>
+    <item
+        jar="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/home/cyhu/Workspace/android/Magicard/app/build/intermediates/pre-dexed/release/classes-13d4f68961ba36ddfb06e7730771869deaf7ec8b.jar" />
     </item>
 
 </items>

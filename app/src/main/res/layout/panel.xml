@@ -41,7 +41,8 @@
 
     <LinearLayout
         android:id="@+id/g3_group"
-        style="@style/LinearLayout.GuillotineItem">
+        style="@style/LinearLayout.GuillotineItem"
+        android:visibility="gone">
 
         <ImageView
             style="@style/ImageView.GuillotineItem"
